@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background: rgb(3, 2, 2);
+    margin: 0px;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(242, 240, 240);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(244, 249, 244);
+}
+
+section {
+	background: rgb(57, 149, 12);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
